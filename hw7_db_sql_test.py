@@ -1,6 +1,6 @@
 import unittest
 import sqlite3
-import hw6_db_sql as hw
+import hw7_db_sql as hw # the name of the file was wrong - hw6_db_sql
 
 
 class Test_SQLStatements(unittest.TestCase):
