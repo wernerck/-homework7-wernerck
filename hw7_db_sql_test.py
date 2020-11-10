@@ -1,3 +1,6 @@
+#Name: Christian Werner
+#Uniqname: wernerck
+
 import unittest
 import sqlite3
 import hw7_db_sql as hw # the name of the file was wrong - hw6_db_sql
